@@ -1,0 +1,1 @@
+kubeadm join 172.42.42.100:6443 --token pxktk5.ch5n61i35cbpj7h8     --discovery-token-ca-cert-hash sha256:f97c89c55c504d4c9f6b454691efc5508148406840afab98cc33b31b93b259c1 
